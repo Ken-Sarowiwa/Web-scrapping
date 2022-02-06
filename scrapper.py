@@ -9,7 +9,7 @@ from distutils.filelist import findall
 from operator import length_hint
 from os import link
 import re
-import requests
+import requests 
 from urllib.parse import urlsplit
 from collections import deque
 from bs4 import BeautifulSoup
